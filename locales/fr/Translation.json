@@ -1,0 +1,355 @@
+{
+  "home": "Accueil",
+  "group": "Le Groupe",
+  "solutions": "Nos Solutions",
+  "talents": "Talents",
+  "contact": "Contact",
+  "visa_request": "Demande de Visa",
+
+  "group_category": "Le groupe",
+  "group_description": "Fondée il y a plus de quinze ans, Capago, entreprise française indépendante, s'est imposée comme un partenaire privilégié des pays Schengen en matière de sous-traitance et de digitalisation de processus administratifs pour les gouvernements et les missions diplomatiques. Grâce à son expertise et à son engagement en faveur de la qualité de service et de l'innovation technologique, Capago a acquis une solide réputation dans le secteur de la sous-traitance des demandes de visa. L’entreprise propose aujourd'hui une large gamme de services, allant de la prise de rendez-vous à la collecte de données biométriques, en passant par l'assistance aux voyageurs et la livraison des passeports.",
+  "group_image_description": "Capago s'établit aujourd'hui comme un partenaire de confiance pour les Administrations françaises et internationales.",
+
+  "mission_title": "Notre mission",
+  "mission_description_1": "Capago se consacre à simplifier et optimiser les processus administratifs internationaux. Notre mission est de répondre constamment aux attentes des administrations tout en offrant aux demandeurs de visa une expérience fluide et efficace.",
+  "mission_description_2": "En nous appuyant sur notre expertise et notre engagement envers l'innovation, nous visons à être le lien indispensable entre les gouvernements et les citoyens du monde entier. En combinant une approche centrée sur l'humain avec des innovations technologiques, nous nous engageons à être le choix privilégié des gouvernements dans la réalisation de leurs objectifs en matière d’externalisation administrative, offrant une expérience transparente et efficace pour les voyageurs tout en assurant la sécurité et l'intégrité des processus tout le long du processus de délivrance des visas.",
+  "discover_solutions": "Découvrez nos solutions",
+
+  "engagement_section_title": "Nos engagements",
+  "engagement_section_description": "Chez Capago, nous nous engageons à offrir un service exceptionnel basé sur des valeurs de transparence, d'excellence, d'innovation et d'engagement. Nous nous efforçons d'améliorer continuellement nos méthodes et technologies pour répondre aux besoins spécifiques de nos partenaires institutionnels.",
+  "engagement_title_1": "Excellence et innovation",
+  "engagement_description_1": "Nous nous engageons à fournir des services de haute qualité, soutenus par des technologies avancées et une approche centrée sur l'humain, afin d'assurer une gestion optimale des demandes de visa.",
+  "engagement_title_2": "Sécurité et confidentialité",
+  "engagement_description_2": "Nous garantissons la protection des données sensibles en respectant strictement les réglementations et les normes françaises et européennes.",
+  "engagement_title_3": "Adaptabilité et proactivité",
+  "engagement_description_3": "Nous nous adaptons en permanence aux contextes locaux changeants, en proposant des solutions flexibles et innovantes, parfaitement adaptées aux besoins des administrations centrales et locales.",
+  "engagement_title_4": "Transparence et fiabilité",
+  "engagement_description_4": "Nous maintenons des standards élevés de transparence et de fiabilité dans toutes nos opérations, garantissant ainsi la confiance des administrations et des demandeurs.",
+
+  "hr_resources": "Ressources Humaines",
+  "culture_capago": "La culture",
+  "capago_span": "capago",
+  "culture_description": "Notre culture d'entreprise repose sur l'engagement envers l'excellence et l'innovation. Notre politique RH valorise la diversité, l'inclusion et le développement personnel de chaque collaborateur.",
+  "learn_more": "En savoir plus",
+  "equality_inclusion_title": "Égalité et Inclusion",
+  "equality_inclusion_description": "Un environnement respectueux pour tous, où chaque collaborateur est valorisé, quelles que soient ses origines ou croyances.",
+  "personal_professional_development_title": "Développement Personnel et Professionnel",
+  "personal_professional_development_description": "Nous investissons dans des programmes de formation continue pour permettre à nos employés de réaliser leur plein potentiel.",
+  "commitment_excellence_title": "Engagement envers l'Excellence",
+  "commitment_excellence_description": "Une approche centrée sur l'humain, visant à offrir des services de haute qualité et à garantir la satisfaction de nos clients et partenaires.",
+
+  "discuss": "Discutons",
+  "together": "ensemble",
+  "assistance_info": "Besoin d'assistance ou de plus d'informations concernant nos services de gestion des visas et de sous-traitance administrative ? Notre équipe est à votre écoute.",
+  "contact_us": "Contactez-Nous",
+
+  "CARRIERE": "CARRIERE",
+  "JoinUs": "Rejoignez-nous !",
+  "JoinDynamicTeam": "Rejoignez une équipe dynamique et internationale, où chaque talent est valorisé et chaque carrière peut s'épanouir.",
+
+  "YourJourneyStartsHere": "Votre voyage commence ici",
+  "CapagoIsTheTrustedPartner": "Capago est le partenaire de confiance des gouvernements et des missions consulaires pour la gestion externalisée des services administratifs et des demandes de visas.",
+  "AreYouApplyingForAVisa": "Vous faites une demande de visa ?",
+  "VisitOurVisaApplicationSpace": "Rendez-vous dans notre espace dédié aux demandes de visa.",
+  "SubmitMyVisaApplication": "Effectuer ma demande de visas",
+
+  "InnovationAndRD": "INNOVATION ET R&D",
+  "Innovation": "L'innovation",
+  "AtTheHeartOfOurBusiness": "au cœur de notre métier",
+  "CapagoContinuousInnovation": "Capago mène une politique d'innovation continue pour offrir des services performants et adaptés, pionnier dans la digitalisation des procédures de visas. Nous investissons dans des technologies de pointe, comme l'IA et les systèmes automatisés, pour améliorer et sécuriser l'expérience des demandeurs de visas et des administrations.",
+  "LearnMore": "En savoir plus",
+
+  "Services": "SERVICES",
+  "TailoredSolutions": "Solutions sur mesure",
+  "SimplifyAndSecureProcesses": "pour simplifier et sécuriser les processus administratifs.",
+  "CapagoDescription": "Capago, entreprise française et indépendante, offre des solutions complètes pour l'externalisation des services administratifs et des demandes de visas. Avec plus de 15 ans d'expertise, nous allions innovation et excellence opérationnelle pour simplifier et sécuriser les processus administratifs liés aux voyages internationaux.",
+  "ChooseYourGuide": "Choisissez votre guide",
+  "InnovationForSimplifiedAdminServices": "Innovation pour des services administratifs simplifiés.",
+  "DiscoverOurSolutions": "Découvrez nos solutions",
+  "GetStarted": "Commencer",
+  "CommitmentAndValue": "ENGAGEMENT & VALEUR",
+  "OurCommitment": "Notre engagement",
+  "CapagoPromise": "La promesse de Capago est de dépasser les attentes des voyageurs et de ses partenaires gouvernementaux en respectant les normes élevées de qualité et d'intégrité. Résolument tourné vers l'avenir, l'ingénierie et la technologie française sont au cœur de notre démarche.",
+
+  "solutionsCategory": "Nos solutions",
+  "solutionsDesc": "Capago conjugue présence mondiale, rigueur des processus et expertise locale pour offrir des solutions sur mesure, adaptées aux spécificités structurelles de chaque pays. Nos équipes locales qualifiées garantissent l’efficacité et la satisfaction des usagers et des partenaires gouvernementaux, même dans les contextes les plus complexes.",
+  "solutionsImageDesc": "Notre succès repose sur notre capacité à conjuguer une présence mondiale, et des process rigoureux avec une expertise locale pointue et notre savoir-faire 100% français.",
+
+  "solutionMission": {
+    "title": {
+      "part1": "Innovation française",
+      "part2": " au service des Administrations"
+    },
+    "desc1": "Chez Capago, l'innovation est au cœur de notre stratégie. Notre politique d'innovation est résolument orientée vers le savoir-faire et les technologies \"made in France\", garantissant ainsi des solutions novatrices et de haute qualité pour nos partenaires gouvernementaux.",
+    "desc2": "Nous sommes fiers de notre capacité à développer des solutions sur mesure qui répondent aux besoins spécifiques de chaque administration. Notre engagement en matière d'innovation se traduit par l'intégration continue de nouveaux process & technologies pour améliorer l'efficacité et la sécurité de nos services. Nous investissons dans la recherche et le développement pour rester à la pointe des avancées technologiques.",
+    "redirectBtnText": "Découvrez capago"
+  },
+
+  "servicesItems": {
+    "title1": "Plateformes de gestion de rendez-vous",
+    "desc1": "Nous utilisons des systèmes propriétaires de pointe pour faciliter la prise de rendez-vous et optimiser les flux des usagers.",
+    "title2": "Informations aux usagers",
+    "desc2": "Nous fournissons des solutions d'information et de communication omnicanale pour assurer une communication fluide et transparente.",
+    "title3": "Gestion de centres administratifs",
+    "desc3": "Création et gestion complète de centres administratifs, de l'accueil des usagers à la délivrance des documents.",
+    "title4": "Vérification des dossiers",
+    "desc4": "vérification rigoureuse des dossiers pour garantir leur conformité avec le cahier des charges des administrations publiques.",
+    "title5": "Collecte de données biométriques",
+    "desc5": "Nos installations sont équipées pour la collecte sécurisée et efficace des données biométriques.",
+    "title6": "Services aux usagers",
+    "desc6": "Nous proposons des services additionnels tels que l'assistance au remplissage, la prise de photos d'identité, la traduction de documents,..",
+    "title7": "Gestion des paiements",
+    "desc7": "Nous offrons des solutions de paiement sécurisées et accessibles pour répondre aux besoins de nos clients."
+  },
+
+  "services": {
+    "title": "Nos services",
+    "description": "Capago propose une gamme complète de services pour répondre à tous les besoins liés à l'externalisation de service administratif, en mettant l'accent sur l'innovation et l'excellence opérationnelle."
+  },
+
+  "security": {
+    "title": "Sécurité et Certifications",
+    "description": "Une protection rigoureuse de vos données. Capago s'engage à respecter les normes de sécurité les plus strictes et à assurer la confidentialité des données, en formant continuellement son personnel et en adhérant aux certifications internationales telles que la norme ISO 27001."
+  },
+
+  "securities": {
+    "high_security_standards": {
+      "title": "Normes de sécurité élevées",
+      "description": "Nous appliquons des normes de sécurité rigoureuses dès l'entrée dans nos locaux et tout au long du processus de transfert des documents. Nos protocoles garantissent que chaque étape est sécurisée, la protection des données sensibles est une priorité, assurant ainsi une tranquillité d'esprit à nos partenaires et usagers."
+    },
+    "continuous_training": {
+      "title": "Formation continue du personnel",
+      "description": "Nous accordons une grande importance à la formation continue de notre personnel pour garantir une adhésion totale aux normes de sécurité et une gestion efficace des informations personnelles. Chaque employé est formé pour reconnaître et répondre aux menaces potentielles de sécurité, assurant ainsi un environnement de travail sûr et sécurisé."
+    },
+    "compliance": {
+      "title": "Conformité totale avec les Standards Internationaux",
+      "description": "Nos services sont entièrement conformes aux certifications internationales de sécurité des données, telles que la norme ISO 27001, assurant ainsi une confidentialité rigoureuse et une protection optimale des informations personnelles. Nous maintenons une surveillance constante de nos processus pour nous assurer qu'ils restent en conformité avec les normes les plus élevées en matière de sécurité des données."
+    }
+  },
+
+  "innovations": {
+    "heading": "Trois pôles essentiels pour guider notre innovation :",
+    "admin_services": {
+      "title": "Innovation au service des administrations",
+      "description": "Le rôle de ce pôle est de développer des solutions qui répondent précisément aux besoins des administrations, centrales et locales, facilitant la gestion des demandes de visa et améliorant les interactions administratives."
+    },
+    "user_services": {
+      "title": "Innovation au service des usagers",
+      "description": "Ce pôle à pour mission de concevoir des plateformes intuitives et conviviales pour les demandeurs de visa, leur offrant une expérience fluide et sans stress à chaque étape du processus."
+    },
+    "security_services": {
+      "title": "Innovation au service de la sécurité",
+      "description": "Renforcer continuellement nos systèmes de sécurité pour garantir la protection des informations sensibles, depuis la collecte des données jusqu'à leur stockage et traitement où encore la lutte contre la fraude et les cybermenaces."
+    }
+  },
+
+  "expertise": {
+    "title": "Savoir-faire",
+    "subtitle": "Notre succès repose sur notre capacité à conjuguer une présence mondiale, et des process rigoureux avec une expertise locale pointue et notre savoir-faire 100% français.",
+    "paragraph1": "Nous comprenons que chaque pays a ses propres cultures, ses propres spécificités et ses propres besoins. C'est pourquoi nous adaptons nos services et nos solutions à chaque contexte, en nous appuyant sur des équipes locales qualifiées et expérimentées. Grâce à notre approche intégrée et multidisciplinaire, nous adaptons nos services aux contextes culturels et optimisons continuellement nos processus, technologie et nos centres administratifs pour offrir une efficacité et une commodité maximales.",
+    "paragraph2": "Cette approche nous permet de répondre aux attentes élevées de nos partenaires gouvernementaux et de garantir une satisfaction totale des usagers. Nos solutions sur-mesure et notre expertise éprouvée sur le terrain, nous permettent de gérer efficacement les besoins administratifs complexes, et cela quelque soit la situation ou le contexte."
+  },
+
+  "values": {
+    "groupTitle": "Les valeurs du groupe :",
+    "paragraph1": "Chez Capago, nos valeurs fondamentales sont le pilier de notre identité et de notre succès. Elles guident chaque aspect de notre travail et définissent notre culture d'entreprise. Nous croyons fermement que l'agilité, l'innovation, le respect, l'excellence et l'engagement ne sont pas seulement des principes abstraits, mais des pratiques quotidiennes qui nous permettent de fournir des services de haute qualité à nos clients et de créer un environnement de travail enrichissant et inclusif pour nos employés.",
+    "paragraph2": "Ces valeurs, profondément ancrées dans notre organisation, sont le moteur de notre croissance et de notre succès dans la délégation de service public et la sous-traitance de la collecte des dossiers de demande de visa. En adoptant et en vivant ces valeurs, nous nous engageons à avoir un impact positif sur notre communauté et nos partenaires.",
+    "excellenceTitle": "Excellence",
+    "excellenceIconAlt": "icône d'excellence",
+    "excellenceDescription": "L'excellence est la pierre angulaire de tout ce que nous entreprenons. Nous nous engageons à maintenir des standards élevés dans tous nos services et opérations. Cela se traduit par une quête permanente de qualité supérieure, une amélioration continue et une performance exceptionnelle.",
+    "agilityTitle": "Agilité",
+    "agilityIconAlt": "icône d'agilité",
+    "agilityDescription": "Nous comprenons l'importance de rester agile dans un environnement en constante évolution. Tout en maintenant une continuité stratégique et opérationnelle solide ainsi que des valeurs humaines fondamentales, nous adaptons continuellement nos processus pour répondre aux défis et opportunités de notre secteur.",
+    "innovationTitle": "Innovation",
+    "innovationIconAlt": "icône d'innovation",
+    "innovationDescription": "L'innovation est au cœur de notre approche. Elle incarne notre engagement à repenser et à améliorer constamment nos pratiques et services. Nous refusons de nous contenter du statu quo, cherchant toujours à optimiser nos processus et à adopter des méthodes de travail plus efficaces.",
+    "respectTitle": "Respect",
+    "respectIconAlt": "icône de respect",
+    "respectDescription": "Le respect est une valeur essentielle chez Capago, guidant toutes nos interactions avec nos clients, partenaires et collègues. Il constitue le fondement d'un environnement professionnel où la confiance et l'intégrité sont primordiales. En respectant chaque individu et chaque relation, nous créons un climat de travail harmonieux et productif.",
+    "engagementTitle": "Engagement",
+    "engagementIconAlt": "icône d'engagement",
+    "engagementDescription": "L'engagement chez Capago signifie assumer une responsabilité totale et inébranlable envers notre mission. Nous nous impliquons pleinement et faisons preuve d'une détermination absolue pour atteindre nos objectifs. Cet engagement se reflète dans notre adhésion passionnée à nos valeurs et notre volonté de faire une différence positive."
+  },
+
+  "career": {
+    "title": "Évolution de carrière",
+    "description1": "Chez Capago, nous valorisons le potentiel de nos collaborateurs et privilégions toujours les promotions internes lorsque des postes se libèrent dans l'entreprise. Nous croyons fermement que la croissance de notre entreprise repose sur le développement des talents déjà présents dans nos équipes.",
+    "description2": "Pour soutenir cette dynamique, nous mettons en place des programmes de formation variés afin de développer les compétences de nos collaborateurs dans différents domaines. Ces formations permettent à chacun de renforcer ses compétences techniques et professionnelles, et de se préparer à de nouvelles responsabilités. Les entretiens annuels jouent un rôle crucial dans notre démarche de développement des carrières. Ils offrent une occasion précieuse d'échanger avec chaque collaborateur pour comprendre leurs objectifs de développement personnels et professionnels. Ces discussions nous permettent d'identifier les aspirations de chacun et de déterminer les moyens les plus efficaces pour les accompagner dans leur progression. En investissant dans la formation continue et en favorisant les opportunités de carrière en interne, Capago s'engage à offrir à ses collaborateurs un environnement de travail stimulant où chacun peut évoluer et s'épanouir pleinement. Nous sommes convaincus que cette approche contribue à notre succès collectif et à la satisfaction de notre équipe."
+  },
+
+  "corporate_culture": {
+    "title": "Culture d’entreprise",
+    "paragraph1": "Chez Capago, nous croyons fermement que notre force réside dans la diversité et le talent de nos équipes. Nous sommes fiers de promouvoir une culture d’entreprise axée sur l'égalité et l'inclusion.",
+    "paragraph2": "Chaque collaborateur, quelle que soit son origine, son genre ou ses croyances, trouve chez nous un environnement de travail respectueux et accueillant.",
+    "paragraph3": "Notre dimension internationale est un atout majeur. Présents dans plusieurs pays, nous bénéficions d’un multiculturalisme enrichissant, qui nous permet de mieux comprendre et servir nos clients du monde entier. Cette diversité culturelle favorise l’ouverture d’esprit et l’innovation, deux valeurs clés de notre entreprise.",
+    "paragraph4": "Nous encourageons activement nos collaborateurs à poursuivre leurs objectifs de carrière, à explorer de nouvelles opportunités et à innover dans leur domaine de compétence. En investissant dans le développement de nos collaborateurs, nous renforçons notre culture d'excellence et d'innovation, tout en assurant une satisfaction et une fidélisation élevées au sein de notre équipe. Travailler chez Capago, c’est rejoindre une équipe dynamique et engagée, où chaque jour est une opportunité d’apprendre et de contribuer à des projets d’envergure internationale. Nous offrons un environnement de travail stimulant, où l’épanouissement professionnel et personnel de chacun est encouragé.",
+    "join_us": "Rejoignez-nous"
+  },
+
+  "meta": {
+    "title": "Nous Contacter - Capago",
+    "description": "Contactez Capago pour des demandes ou de l'assistance. Remplissez notre formulaire ou contactez nos bureaux pour des réponses rapides.",
+    "keywords": "Capago, contact, assistance, demandes, support client"
+  },
+  "contacts": {
+    "needContact": "Besoin de nous contacter ?",
+    "contactPera": "Pour toute question ou assistance, notre équipe est à votre disposition. Remplissez notre formulaire ou contactez directement nos centres pour une réponse rapide.",
+    "headOffice": "Siège social",
+    "paris": "Paris",
+    "pressMedia": "Presse & Médias",
+    "formHeader": "Contact",
+    "formPera": "Vous cherchez des informations sur Capago ? Nos équipes sont là pour vous répondre.",
+    "name": "Nom",
+    "lastName": "Prénom",
+    "email": "Email",
+    "subject": "Objet",
+    "message": "Tapez votre message",
+    "sendButton": "Envoyer",
+    "visaheading1": "Contacter nos centres",
+    "visaheading2": "de demandes de Visas"
+  },
+
+  "cookiePolicy": {
+    "title": "Politique des cookies - Capago",
+    "description": "Lisez la politique des cookies de Capago et découvrez comment les cookies sont utilisés pour améliorer votre expérience.",
+    "keywords": "Capago, cookies, politique, services numériques",
+    "heading": "Politique des cookies",
+    "effectiveDate": "Date d'effet: 04/10/2023",
+    "conditionpera": "Vous trouverez dans cette page la politique des cookies de Capago.",
+    "article1": {
+      "heading": "ARTICLE 1 - INTRODUCTION",
+      "paragraph1": "Pour que le site web de Capago fonctionne correctement et pour fournir le meilleur service à l'utilisateur, nous plaçons des petits fichiers de données appelés \"cookies\" sur son appareil.",
+      "paragraph2": "Cette politique fournit des informations sur la gestion par Capago des cookies et sur la manière pour l’utilisateur du service de les contrôler."
+    },
+    "article2": {
+      "heading": "ARTICLE 2 - CONSENTEMENT",
+      "paragraph1": "Le consentement de l'utilisateur du service est requis pour l'utilisation de certains cookies.",
+      "paragraph2": "Capago recueille ce consentement au moyen d'une bannière d'information affichée sur le site web."
+    },
+    "article3": {
+      "heading": "ARTICLE 3 - COOKIES UTILISÉ SUR LE SITE WEB DE CAPAGO",
+      "subheading1": "Article 3.1 - Définition des cookies",
+      "paragraph1": "Un cookie est un petit fichier de données (fichier texte) qu'un site web, lorsqu'il est visité par un utilisateur, demande à votre navigateur de stocker sur son appareil afin de mémoriser des informations le concernant, telles que les préférences linguistiques ou les données de connexion. Nous définissons ces cookies comme des cookies internes.",
+      "paragraph2": "Capago peut également utiliser des cookies de tiers, c'est-à-dire des cookies provenant d'un domaine différent de celui du site web Capago, dans le cadre de démarches publicitaires et marketing."
+    },
+    "article4": {
+      "heading": "ARTICLE 4 - PROCÉDURE DE CONTRÔLE ET DE SUPPRESSION DES COOKIES",
+      "paragraph": "Une interface sur nos sites web peut être utilisée pour personnaliser les préférences de l'utilisateur du service en matière de cookies."
+    },
+    "article5": {
+      "heading": "ARTICLE 5 - UTILISATION DU NAVIGATEUR",
+      "paragraph": "La plupart des cookies utilisés sur le site web Capago peuvent également être activés ou désactivés par le biais de votre navigateur."
+    }
+  },
+
+  "emailTemplate": {
+    "header": "capago",
+    "inquiryDetails": "Détails de l'enquête",
+    "object": "Objet",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message"
+  },
+
+  "challenges_meta": {
+    "title": "Enjeux d'avenir - Capago",
+    "description": "Explorez les enjeux d'avenir de la digitalisation des services administratifs et les solutions innovantes proposées par Capago.",
+    "keywords": "Capago, digitalisation, services administratifs, demandes de visa, enjeux d'avenir"
+  },
+  "navigation": {
+    "back": "Retour"
+  },
+  "header": {
+    "subtitle": "LA DIGITALISATION DES SERVICES ADMINISTRATIFS",
+    "title": "un enjeu d'avenir ? (e-guichet)",
+    "readingTime": "Temps de lecture : 5 min"
+  },
+  "buttons": {
+    "services": "SERVICES",
+    "share": "Partager"
+  },
+  "article": {
+    "tableOfContents": "Dans cet article",
+    "sections": [
+      "La digitalisation des services administratifs",
+      "Amélioration de l'expérience client avec le E-Guichet"
+    ],
+    "intro": "Dans un monde de plus en plus globalisé, les voyages internationaux et les échanges culturels sont devenus monnaie courante. Toutefois, le processus de demande de visa peut souvent se révéler fastidieux et stressant pour les voyageurs.",
+    "mainContent": {
+      "paragraph1": "Chez Capago, entreprise française de premier plan dans la gestion externalisée des demandes de visa, nous nous efforçons de transformer cette expérience en un parcours fluide et agréable pour les demandeurs. La digitalisation des services administratifs représente non seulement une réponse aux défis actuels, mais aussi une vision d'avenir pour une gestion plus efficace, transparente et sécurisée des demandes de visa. Grâce à l'innovation technologique et à une approche centrée sur l'utilisateur, Capago redéfinit les standards de l'industrie en simplifiant les procédures et en réduisant les délais, tout en maintenant un haut niveau de sécurité et de conformité.",
+      "section1": {
+        "title": "La digitalisation des services administratifs: un enjeu d'avenir ?",
+        "content": "La digitalisation est au cœur de la stratégie de Capago pour améliorer à la fois l'expérience des demandeurs de visa qui sont de plus en plus digitaux, mais aussi l'expérience de nos partenaires gouvernementaux: parcours facilité, temps de traitement optimisé, transfert de données fiables et sécurisé, satisfactions des demandeurs, .... En adoptant des technologies numériques de pointe, Capago simplifie et accélère le processus de demande de visa, offrant ainsi une expérience utilisateur optimisée."
+      },
+      "section2": {
+        "title": "Plateformes de Gestion de rendez-vous",
+        "content": [
+          "L'un des principaux défis pour les demandeurs de visa est la prise de rendez-vous. Capago a développé des systèmes propriétaires de gestion de rendez-vous qui permettent de faciliter ce processus. Nos plateformes offrent une interface intuitive où les utilisateurs peuvent facilement réserver, modifier ou annuler leurs rendez-vous en ligne. Grâce à ces outils, les temps d'attente sont réduits et les demandeurs peuvent planifier leur visite au centre de demande de visa en toute tranquillité.",
+          "Ces systèmes de gestion de rendez-vous intègrent également des fonctionnalités avancées telles que des rappels par e-mail, SMS ou encore via whatsapp, ce qui permet de réduire le risque de no-shows et d'optimiser les flux d'usagers.",
+          "Capago a également investi dans le développement de portails en ligne innovants pour faciliter l'interaction des demandeurs de visa avec ses services. Ces outils numériques permettent aux utilisateurs de suivre l'évolution de leur demande de visa en temps réel, de recevoir des notifications sur l'état de leur dossier et d'accéder à des informations importantes sur le processus de demande.",
+          "Les portails en ligne de Capago sont conçus pour être user-friendly, avec des interfaces claires et des instructions détaillées à chaque étape. Ils offrent également des ressources pédagogiques, telles que des guides et des FAQ, pour aider les demandeurs à comprendre les exigences et les procédures."
+        ]
+      }
+    }
+  },
+  "relatedContent": {
+    "title": "Retrouvez aussi",
+    "cards": {
+      "title": "Une culture d'entreprise qui fait la différence !",
+      "description": "Notre succès ne repose pas seulement sur nos services, mais sur une culture d'entreprise dynamique et inclusive qui fait la différence."
+    }
+  },
+
+  "group_helmet": {
+    "title": "Groupes - Capago",
+    "description": "Découvrez les groupes et initiatives chez Capago, axés sur notre mission, notre culture, nos carrières et notre engagement.",
+    "keywords": "Capago, groupes, mission, culture, carrière, engagement, initiatives"
+  },
+
+  "home_helmet": {
+    "homePage": {
+      "title": "Page d'accueil - Capago",
+      "description": "Bienvenue sur notre page d'accueil. Découvrez nos services, explorez des idées innovantes et en savoir plus sur les opportunités de carrière avec nous.",
+      "keywords": "accueil, services, innovation, carrières, Capago"
+    }
+  },
+
+  "perspectives_helmet": {
+    "perspectives": {
+      "title": "Perspectives - Capago",
+      "description": "Explorez les analyses stratégiques et les perspectives de Capago dans les services administratifs et consulaires, en mettant l'accent sur les tendances et les innovations.",
+      "keywords": "perspectives, Capago, analyses stratégiques, services administratifs, services consulaires, tendances, innovations"
+    }
+  },
+  "perspectives": {
+    "header": {
+      "title": "Perspectives",
+      "description": "Découvrez nos analyses approfondies et nos visions stratégiques pour anticiper les tendances et les innovations dans le domaine des services administratifs et consulaires."
+    },
+    "sectionTitle": "Titre section",
+    "paragraph": "Capago International est le représentant exclusif pour le traitement des demandes de visa Schengen pour le compte du Ministère français des Affaires étrangères en Afrique du Sud depuis 2010, au Koweït depuis 2012, au Qatar depuis 2013, en Azerbaïdjan depuis 2017, au Bénin, au Togo, en Guinée, au Burkina Faso et au Mali en 2018.",
+    "button": "SERVICES",
+    "contactUs": "Contactez-nous",
+    "paragraph_new": "Capago International has been the exclusive representative for the processing of Schengenvisa.",
+    "categories": {
+      "all": "Toutes",
+      "digitalTech": "Digitalisation et Technologies",
+      "customerExp": "Expérience Client",
+      "dataSecurity": "Sécurité et Protection des données",
+      "changeManagement": "Conduite du changement",
+      "capagoWorld": "Capago dans le monde"
+    }
+  },
+
+  "hub": {
+    "center": "Centre de candidature",
+    "officialVisa": "Visa officiel",
+    "chooseCountry": "Choisissez votre pays de résidence",
+    "validate": "Valider",
+    "meta": {
+      "title": "Demande de visa | Capago",
+      "description": "Faites votre demande de visa officielle avec Capago. Choisissez votre pays de résidence et commencez votre processus de demande de visa.",
+      "keywords": "demande de visa, Capago, visa Schengen, France, Allemagne, Espagne, Italie"
+    }
+  }
+}
